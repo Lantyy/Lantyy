@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Miles
-#### I am a Cybersecurity Junior
+
 
 Skills: Communication / SIEMs / Linux / SQL / Python
 

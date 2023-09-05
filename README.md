@@ -3,7 +3,7 @@
 
 Skills: Communication / SIEMs / Linux / SQL / Python
 
-- 🔭 I’m currently working on Building Cybersecurity Homelabs 
+- 🔭 I’m currently studying for the eJPT Certification. 
 - 🌱 I’m currently learning Packet Capture Analysis using Tcpdump and Wireshark 
 - 👯 I’m looking to collaborate on on Cybersecurity Projects 
 - 💬 Ask me about Cybersecurity 

@@ -3,10 +3,8 @@
 
 Skills: Communication / SIEMs / Linux / SQL / Python
 
-- 🔭 I’m currently studying for the eJPT Certification. 
+- 🔭 I’m currently studying for my Net+ certification. 
 - 🌱 I’m currently learning Packet Capture Analysis using Tcpdump and Wireshark 
-- 👯 I’m looking to collaborate on on Cybersecurity Projects 
-- 💬 Ask me about Cybersecurity 
 - 📫 How to reach me: mileslanterman@yahoo.com 
 
 
